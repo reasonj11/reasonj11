@@ -3,6 +3,10 @@ Hi there 👋
 </h1>
 
 <h3 align="left">✏️Studying</h3>
+
+<table>
+<tr>
+<td>
 <p align="left">
 
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
@@ -13,7 +17,13 @@ Hi there 👋
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 </p>
+</td>
+<td>
 <div align="right">
-  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reasonj11&layout=compact)](https://github.com/reasonj11/github-readme-stats)
+
 </div>
+</td>
+</tr>
+</table>
