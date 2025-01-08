@@ -13,7 +13,6 @@ Hi there 👋
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 </p>
-
 <div align="right">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reasonj11&layout=compact)](https://github.com/reasonj11/github-readme-stats)
